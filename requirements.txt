@@ -1,0 +1,8 @@
+Flask==1.1.1
+pandas==0.25.1
+scipy==1.3.1
+requests
+numpy
+flask-cors
+#opencv-python-headless
+#python==3.7
